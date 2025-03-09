@@ -124,7 +124,5 @@ El mismo patrón se sigue para cualquier número de discos, asegurando que nunca
 - Compilar el código con `csc TorresDeHanoi.cs`.
 - Ejecutar el programa con `dotnet run`.
 
-## Autor
-Desarrollado por [LauraGeorginaRuizCampos](https://github.com/LauraGeorginaRuizCampos/Torres-de-Hanoi).
 
 
